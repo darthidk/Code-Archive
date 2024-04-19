@@ -1,0 +1,14 @@
+﻿  Folio5.cpp
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Folio5\Folio5.cpp(177,39): warning C4477: 'sscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double *'
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Folio5\Folio5.cpp(177,39): message : consider using '%lf' in the format string
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Folio5\Folio5.cpp(186,39): warning C4477: 'sscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double *'
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Folio5\Folio5.cpp(186,39): message : consider using '%lf' in the format string
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Folio5\Folio5.cpp(195,39): warning C4477: 'sscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double *'
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Folio5\Folio5.cpp(195,39): message : consider using '%lf' in the format string
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Folio5\Folio5.cpp(204,39): warning C4477: 'sscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double *'
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Folio5\Folio5.cpp(204,39): message : consider using '%lf' in the format string
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Folio5\Folio5.cpp(213,39): warning C4477: 'sscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double *'
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Folio5\Folio5.cpp(213,39): message : consider using '%lf' in the format string
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Folio5\Folio5.cpp(222,39): warning C4477: 'sscanf_s' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double *'
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Folio5\Folio5.cpp(222,39): message : consider using '%lf' in the format string
+  Folio5.vcxproj -> C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Folio5\Debug\Folio5.exe
