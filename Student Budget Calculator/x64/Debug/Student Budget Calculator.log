@@ -1,0 +1,4 @@
+﻿  Student Budget Calculator.cpp
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Student Budget Calculator\Student Budget Calculator.cpp(66,1): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Student Budget Calculator\Student Budget Calculator.cpp(72,1): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+  Student Budget Calculator.vcxproj -> C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Student Budget Calculator\x64\Debug\Student Budget Calculator.exe

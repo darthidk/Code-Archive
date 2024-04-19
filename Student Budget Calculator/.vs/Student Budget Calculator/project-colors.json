@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e73300ee-3c02-4852-9daa-b7324f455048": {
+      "ProjectGuid": "e73300ee-3c02-4852-9daa-b7324f455048",
+      "DisplayName": "Student Budget Calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
