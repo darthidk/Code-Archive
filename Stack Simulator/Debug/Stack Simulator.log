@@ -1,0 +1,21 @@
+﻿  Stack Simulator.cpp
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Stack Simulator\Stack Simulator.cpp(251,37): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Stack Simulator\Stack Simulator.cpp(252,31): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Stack Simulator\Stack Simulator.cpp(256,36): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Stack Simulator\Stack Simulator.cpp(257,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Stack Simulator\Stack Simulator.cpp(261,36): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Stack Simulator\Stack Simulator.cpp(262,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Stack Simulator\Stack Simulator.cpp(143,14): warning C4101: 'greyrect': unreferenced local variable
+  Stack Simulator.vcxproj -> C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Stack Simulator\Debug\Stack Simulator.exe
