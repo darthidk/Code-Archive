@@ -1,0 +1,4 @@
+﻿  Children's Toy.cpp
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Children's Toy\Children's Toy.cpp(61,1): error C2065: 'GWL_HINSTANCE': undeclared identifier
+C:\Users\FOR0015\OneDrive - Melbourne High School\Software Development 3&4\Programming Practice\Children's Toy\Children's Toy.cpp(61,1): error C2660: 'CreateWindowExW': function does not take 11 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4432,1): message : see declaration of 'CreateWindowExW'
