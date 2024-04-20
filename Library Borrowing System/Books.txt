@@ -1,0 +1,10 @@
+apple|hi|hhd|ihatethis|plswork|23/8/2022|false|null|BookImages\Applebmp.bmp
+atest|designer|book test|test|null|6/25/2022|false|null|BookImages\Treebmp.bmp
+englishbook|loser|novel|bad |for 15+ for 16+ for 17+ for 18+ for 19+ for 20+ for 21+ for 22+ for 35+|23/8/2022|true|h|e
+gtest|designer|book test|test|null|6/25/2022|false|null|null
+leaf|tree|nonfiction|i love trees|l e a f|20/7/2022|true|h|BookImages\Leafbmp.bmp
+mathtextbook|me|textbook|calculus|hard|23/8/2022|true|dfd|e
+runner|good author|novel|best book|charlie|31/7/2022|true|h|e
+tcy|Author|Genre|Description|More Info|15/7/2022|true|h|e
+temporary|no one|test book|none|none|6/25/2022|false|null|null
+ztest|creator|test book|test|null|25/6/2022|false|null|null
